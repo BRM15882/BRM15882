@@ -1,6 +1,6 @@
-# 🍎 Desarrollador iOS
+# :technologist: Desarrollador iOS
 
-## Célula
+## :busts_in_silhouette: Equipo de trabajo
 **Housekeeping 🛠️🏠** nos enfocamos en el soporte y la deuda técnica.
 
 ## 🚀 Habilidades Técnicas
